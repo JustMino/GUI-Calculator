@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\minof\\OneDrive - acu.edu\\Year 2 Term 2\\CS230\\BasicCalculator\\GUICalculator\\GUICalculator\\GUICalculator.csproj": {}
+    "C:\\Users\\minof\\Documents\\GitHub\\GUI-Calculator\\BasicCalculator\\GUICalculator\\GUICalculator\\GUICalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\minof\\OneDrive - acu.edu\\Year 2 Term 2\\CS230\\BasicCalculator\\GUICalculator\\GUICalculator\\GUICalculator.csproj": {
+    "C:\\Users\\minof\\Documents\\GitHub\\GUI-Calculator\\BasicCalculator\\GUICalculator\\GUICalculator\\GUICalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minof\\OneDrive - acu.edu\\Year 2 Term 2\\CS230\\BasicCalculator\\GUICalculator\\GUICalculator\\GUICalculator.csproj",
+        "projectUniqueName": "C:\\Users\\minof\\Documents\\GitHub\\GUI-Calculator\\BasicCalculator\\GUICalculator\\GUICalculator\\GUICalculator.csproj",
         "projectName": "GUICalculator",
-        "projectPath": "C:\\Users\\minof\\OneDrive - acu.edu\\Year 2 Term 2\\CS230\\BasicCalculator\\GUICalculator\\GUICalculator\\GUICalculator.csproj",
+        "projectPath": "C:\\Users\\minof\\Documents\\GitHub\\GUI-Calculator\\BasicCalculator\\GUICalculator\\GUICalculator\\GUICalculator.csproj",
         "packagesPath": "C:\\Users\\minof\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minof\\OneDrive - acu.edu\\Year 2 Term 2\\CS230\\BasicCalculator\\GUICalculator\\GUICalculator\\obj\\",
+        "outputPath": "C:\\Users\\minof\\Documents\\GitHub\\GUI-Calculator\\BasicCalculator\\GUICalculator\\GUICalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\minof\\AppData\\Roaming\\NuGet\\NuGet.Config",

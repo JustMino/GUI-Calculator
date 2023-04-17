@@ -71,7 +71,12 @@ namespace GUICalculator
             {
                 char operation = splitequation[i][0];
                 double nextnum;
-                if (splitequation[i+1] != "-") nextnum = double.Parse(splitequation[i + 1]);
+                if (splitequation[i+1] != "") nextnum = double.Parse(splitequation[i + 1]);
+                else
+                {
+                    nextnum = double.Parse(splitequation[i+3])*-1.0;
+                    i += 2;
+                }
                 
                 // if multiply divide, or mod pop the last pushed number in order to apply the multiply before doing the addition at the end
                 if (operation == '*')
