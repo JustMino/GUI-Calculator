@@ -1,0 +1,17 @@
+C:\Users\minof\OneDrive - acu.edu\Year 2 Term 2\CS230\BasicCalculator\GUICalculator\GUICalculator\bin\Debug\net7.0-windows\GUICalculator.exe
+C:\Users\minof\OneDrive - acu.edu\Year 2 Term 2\CS230\BasicCalculator\GUICalculator\GUICalculator\bin\Debug\net7.0-windows\GUICalculator.deps.json
+C:\Users\minof\OneDrive - acu.edu\Year 2 Term 2\CS230\BasicCalculator\GUICalculator\GUICalculator\bin\Debug\net7.0-windows\GUICalculator.runtimeconfig.json
+C:\Users\minof\OneDrive - acu.edu\Year 2 Term 2\CS230\BasicCalculator\GUICalculator\GUICalculator\bin\Debug\net7.0-windows\GUICalculator.dll
+C:\Users\minof\OneDrive - acu.edu\Year 2 Term 2\CS230\BasicCalculator\GUICalculator\GUICalculator\bin\Debug\net7.0-windows\GUICalculator.pdb
+C:\Users\minof\OneDrive - acu.edu\Year 2 Term 2\CS230\BasicCalculator\GUICalculator\GUICalculator\obj\Debug\net7.0-windows\GUICalculator.csproj.AssemblyReference.cache
+C:\Users\minof\OneDrive - acu.edu\Year 2 Term 2\CS230\BasicCalculator\GUICalculator\GUICalculator\obj\Debug\net7.0-windows\GUICalculator.csproj.GenerateResource.cache
+C:\Users\minof\OneDrive - acu.edu\Year 2 Term 2\CS230\BasicCalculator\GUICalculator\GUICalculator\obj\Debug\net7.0-windows\GUICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minof\OneDrive - acu.edu\Year 2 Term 2\CS230\BasicCalculator\GUICalculator\GUICalculator\obj\Debug\net7.0-windows\GUICalculator.AssemblyInfoInputs.cache
+C:\Users\minof\OneDrive - acu.edu\Year 2 Term 2\CS230\BasicCalculator\GUICalculator\GUICalculator\obj\Debug\net7.0-windows\GUICalculator.AssemblyInfo.cs
+C:\Users\minof\OneDrive - acu.edu\Year 2 Term 2\CS230\BasicCalculator\GUICalculator\GUICalculator\obj\Debug\net7.0-windows\GUICalculator.csproj.CoreCompileInputs.cache
+C:\Users\minof\OneDrive - acu.edu\Year 2 Term 2\CS230\BasicCalculator\GUICalculator\GUICalculator\obj\Debug\net7.0-windows\GUICalculator.dll
+C:\Users\minof\OneDrive - acu.edu\Year 2 Term 2\CS230\BasicCalculator\GUICalculator\GUICalculator\obj\Debug\net7.0-windows\refint\GUICalculator.dll
+C:\Users\minof\OneDrive - acu.edu\Year 2 Term 2\CS230\BasicCalculator\GUICalculator\GUICalculator\obj\Debug\net7.0-windows\GUICalculator.pdb
+C:\Users\minof\OneDrive - acu.edu\Year 2 Term 2\CS230\BasicCalculator\GUICalculator\GUICalculator\obj\Debug\net7.0-windows\GUICalculator.genruntimeconfig.cache
+C:\Users\minof\OneDrive - acu.edu\Year 2 Term 2\CS230\BasicCalculator\GUICalculator\GUICalculator\obj\Debug\net7.0-windows\ref\GUICalculator.dll
+C:\Users\minof\OneDrive - acu.edu\Year 2 Term 2\CS230\BasicCalculator\GUICalculator\GUICalculator\obj\Debug\net7.0-windows\GUICalculator.Calculator.resources
